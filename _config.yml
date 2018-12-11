@@ -1,0 +1,36 @@
+title: "IWFS @ iwanr.com"
+author: "derekwtf"
+description: "Another I wanna games funsite."
+
+# Styling
+permalink: /:title/
+dark_theme: false
+show_excerpts: true
+
+# Add navigation links to the header
+navigation:
+  - index.html
+  - archive.html
+  - about.md
+
+# Header icons, see http://fontawesome.io/icons/ for all possible icons
+icons:
+  - github: "https://github.com/niklasbuschmann/contrast"
+  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - feed: "feed.xml"
+
+# Embed comments
+comments:
+#  disqus: "disqus-contrast"
+#  isso: "comments.mysite.org"
+
+# Pagination
+paginate: 2
+excerpt_separator: "\n\n\n" # end excerpt after two blank lines
+more: "read more »"
+newer: "« newer posts"
+older: "older posts »"
+
+plugins: 
+ - jekyll-feed
+ - jekyll-paginate
