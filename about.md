@@ -3,19 +3,20 @@ layout: post
 title: "About"
 ---
 
-### About Me
+### 关于此站
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+这是一个`I wanna`系列游戏的中文粉丝站。于此我会收集和介绍一些优秀的`I wanna`游戏，算是为这个系列做些小贡献。
 
-### My life
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 关于IW
 
- - Dictumst
- - Vestibulum
- - Rhoncus
- - Pellentesque
- 
-Maecenas accumsan lacus vel facilisis volutpat est velit. Arcu bibendum at varius vel. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. 
+I wanna 系列，是一类很奇特的游戏。对于大多数人来说，初见此类游戏时最直观的感受应该是，**难**，**坑**，以及**糙**。
 
-Ultrices dui sapien eget mi proin sed. Dignissim sodales ut eu sem.
+从2012年的 **I Wanna Be The Guy** 开始，时至今日以 **I wanna** 为名的游戏早已多至数不胜数，但他们的特点一脉相承，给人的感受也从来没有变过，始终是，**难**，**坑**，以及**糙**。
+
+难是说**操作技巧要求极高**，坑是说出乎意料的**恶意陷阱极多**，糙是说**画面毫不讲究**，粗糙到爆。
+
+……但这类游戏，很有一种**魔性**。
+
+更多的内容，可参考我的文章：[I wanna be the …](https://www.inpole.com/archives/1337)
+
