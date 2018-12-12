@@ -34,3 +34,5 @@ older: "older posts »"
 plugins: 
  - jekyll-feed
  - jekyll-paginate
+
+theme: jekyll-theme-time-machine
