@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "I wanna be the …"
-categories: comment
+layout: default
 ---
+
 I wanna 系列，是一类很奇特的游戏。对于大多数人来说，初见此类游戏时最直观的感受应该是，**难**，**坑**，以及**糙**。
 
 从2012年的 **I Wanna Be The Guy** 开始，时至今日以 **I wanna** 为名的游戏早已多至数不胜数，但他们的特点一脉相承，给人的感受也从来没有变过，始终是，**难**，**坑**，以及**糙**。
