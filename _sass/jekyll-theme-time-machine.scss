@@ -456,18 +456,17 @@ footer .owner p a {
 }
 
 .markdown-body blockquote {
-  font-style: normal;
-  color: #1B657E
-  font-family: 'Monaco', 'Lucida Console', monospace;
-  font-size: 16px;
+  font-style: italic;
+  font-family:Georgia, serif;
+  font-size: 17px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding: 10px 20px;
   padding-left: 50px;
 }
 
-.markdown-body normal:before {
-  font-style: normal;  
+.markdown-body blockquote:before {
+  font-style: italic;
   font-family: Georgia, serif;
   font-size: 90px;
   height: 90px;
